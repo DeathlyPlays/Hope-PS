@@ -9,7 +9,7 @@ Navigation: [Hope][1] | [PS Server repository][10] | [PS Client repository][2] |
   [10]: https://github.com/Zarel/Pokemon-Showdown
 
 [![Build Status](https://travis-ci.org/Lycanium-Z/Hope-PS.svg?branch=master)](https://travis-ci.org/Lycanium-Z/Hope-PS)
-[![dependencies Status](https://david-dm.org/Lycanium-Z/Hope-PS/status.svg)](https://david-dm.org/HoeenCoder/Hope-PS)
+[![dependencies Status](https://david-dm.org/Lycanium-Z/Hope-PS/status.svg)](https://david-dm.org/Lycanium-Z/Hope-PS)
 [![devDependencies Status](https://david-dm.org/Lycanium-Z/Hope-PS/dev-status.svg)](https://david-dm.org/Lycanium-Z/Hope-PS?type=dev)
 [![optionalDependencies Status](https://david-dm.org/Lycanium-Z/Hope-PS/optional-status.svg)](https://david-dm.org/Lycanium-Z/Hope-PS?type=optional)
 
@@ -115,5 +115,5 @@ Contributors
 - [Insist](https://github.com/DeathlyPlays)
 
 Special thanks
-
+- Most of the code is taken from [Wavelength](https://github.com/HoeenCoder/Wavelength)
 - See http://pokemonshowdown.com/credits
